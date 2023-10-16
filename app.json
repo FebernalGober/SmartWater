@@ -3,8 +3,14 @@
     "name": "SmartWater",
     "slug": "SmartWater",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"],
+    "extra": {
+      "fonts": [
+        {
+          "name": "CorbelBold",
+          "asset": "./assets/fonts/CorbelBold.ttf"
+        }
+      ]
+    }
   }
 }
